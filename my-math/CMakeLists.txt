@@ -1,0 +1,1 @@
+add_library(my-math my-math.c)
