@@ -1,0 +1,1 @@
+add_library(my-files my-files.c)
