@@ -1,1 +1,1 @@
-add_library(expression-lex lex.c)
+add_library(expression-lex lex.c parser.c)

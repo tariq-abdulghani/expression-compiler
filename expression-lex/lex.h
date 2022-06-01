@@ -15,3 +15,8 @@ typedef enum token_enum
 
 int lex();
 char *stringify_token(int val);
+
+int lex_test();
+int match(int);
+
+void advance();
